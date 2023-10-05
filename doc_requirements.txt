@@ -1,4 +1,4 @@
 mkdocs~=1.5.3
-mkdocstrings-python~=1.7.1
+mkdocstrings-python~=1.7.2
 .
 ./pulp-glue
